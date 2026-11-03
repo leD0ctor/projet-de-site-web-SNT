@@ -1,0 +1,5 @@
+un site qui est un jeu (de type clicker) avec
+ -une image au milieu qui quand on clic dessus débloque des paliers
+- qui joue un son différent à chaque paliers 
+- avec aussi des animations et un compteur
+-règle deu jeux sur une page secondaire
